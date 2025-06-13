@@ -1,3 +1,6 @@
+
+![Should_I_Buy_This](https://github.com/user-attachments/assets/cb67d5b0-a04b-4446-a314-8dda84142380)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
